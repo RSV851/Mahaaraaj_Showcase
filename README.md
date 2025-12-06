@@ -155,16 +155,16 @@ This public repo contains:
 # 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home-page.png)
+<!-- ![Home Page](./screenshots/home-page.png) -->
 <img width="1918" height="437" alt="Screenshot 2025-12-06 172346" src="https://github.com/user-attachments/assets/d95647ea-c4ba-4add-a7be-a79c59638657" />
 
 
 ### 🔎 Results Page
-![Results Page](./screenshots/results-page.png)
+<!-- ![Results Page](./screenshots/results-page.png) -->
 <img width="1262" height="950" alt="Screenshot 2025-12-06 172754" src="https://github.com/user-attachments/assets/6eac6c24-b2dd-4b60-a89c-9f2268c6e35a" />
 <img width="1152" height="966" alt="Screenshot 2025-12-06 172701" src="https://github.com/user-attachments/assets/4b417452-7245-4a98-bde8-9c90101d6a41" />
 
-*(Upload your actual PNG files and ensure names match.)*
+<!--*(Upload your actual PNG files and ensure names match.)* -->
 
 ---
 
